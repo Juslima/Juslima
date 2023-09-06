@@ -1,4 +1,5 @@
-### Hi there 👋
+![Linkedin](https://github.com/Juslima/Juslima/assets/130790909/73c9b08e-0c74-42ed-9026-680a275b201d)
+
 
 <h1 align="center">Hi 👋, I'm Juliana</h1>
 <h3 align="center">A passionate Data Analyst from Brazil</h3>
